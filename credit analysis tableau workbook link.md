@@ -1,0 +1,1 @@
+https://public.tableau.com/app/profile/joan.njoroge2096/viz/CreditRiskAnalysis_17308496906550/Loans?publish=yes
